@@ -1,0 +1,10 @@
+{
+	"name": "IClound/frame",
+    "description": "IClound",
+    "license": "MIT",
+    "require": {
+		"php": ">=5.5.9",
+        "laravel/framework": "5.2.*"
+    }
+
+}
